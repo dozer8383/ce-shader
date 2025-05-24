@@ -2,9 +2,8 @@
 # Makefile Options
 # ----------------------------
 
-NAME = DEMO
-ICON = icon.png
-DESCRIPTION = "CE C Toolchain Demo"
+NAME = SHADER
+DESCRIPTION = "look ma, no GPU"
 COMPRESSED = NO
 ARCHIVED = NO
 
