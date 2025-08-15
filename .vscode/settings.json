@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "keypadc.h": "c",
+        "graphx.h": "c"
+    }
+}

@@ -5,9 +5,9 @@
 NAME = SHADER
 DESCRIPTION = "look ma, no GPU"
 COMPRESSED = NO
-ARCHIVED = NO
+ARCHIVED = YES
 
-CFLAGS = -Wall -Wextra -Oz
+CFLAGS = -Wall -Oz
 CXXFLAGS = -Wall -Wextra -Oz
 
 # ----------------------------
